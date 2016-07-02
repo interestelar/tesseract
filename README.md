@@ -1,2 +1,2 @@
-# tesseract
-Artículos, archivos y links
+# Tesseract
+Aquí agregamos artículos, archivos y links a cosas que sean interesantes y/o útiles.
